@@ -1,0 +1,12 @@
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\bin\Debug\conversion_calculator.exe.config
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\bin\Debug\conversion_calculator.exe
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\bin\Debug\conversion_calculator.pdb
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\bin\Debug\conversion_calculator.xml
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.Conversion_Calculator.resources
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.Resources.resources
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.vbproj.GenerateResource.cache
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.vbproj.CoreCompileInputs.cache
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.exe
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.xml
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.pdb
+C:\Users\seanz\OneDrive\Documents\Code\VB.NET\conversion_calculator\conversion_calculator\obj\Debug\conversion_calculator.vbprojAssemblyReference.cache

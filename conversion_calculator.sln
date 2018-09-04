@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "conversion_calculator", "conversion_calculator\conversion_calculator.vbproj", "{0F40B2E0-A1B6-4418-A826-98AA5BAC6F1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F40B2E0-A1B6-4418-A826-98AA5BAC6F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F40B2E0-A1B6-4418-A826-98AA5BAC6F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F40B2E0-A1B6-4418-A826-98AA5BAC6F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F40B2E0-A1B6-4418-A826-98AA5BAC6F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF34C8C7-99DC-46BC-8CFB-D5752A00D0A4}
+	EndGlobalSection
+EndGlobal
